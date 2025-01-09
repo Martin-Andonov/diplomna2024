@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.016,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.09999999999999999,
         "silk_text_italic": false,
@@ -471,7 +471,8 @@
     },
     "net_colors": {
       "GND": "rgb(0, 0, 0)",
-      "VDD": "rgb(255, 0, 239)"
+      "VDD": "rgb(0, 255, 34)",
+      "fpga_gpio_even": "rgb(255, 244, 0)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
