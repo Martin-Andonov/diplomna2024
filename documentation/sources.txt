@@ -3,3 +3,16 @@ https://en.wikipedia.org/wiki/CubeSat
 https://www.esa.int/ESA_Multimedia/Images/2001/03/Satellite_Data_Link_System
 https://www.eurocontrol.int/system/satellite-communications-datalink
 https://en.wikipedia.org/wiki/List_of_CubeSats
+https://www.euspa.europa.eu/eu-space-programme/galileo/what-gnss#:~:text=Global%20Navigation%20Satellite%20System%20(%20GNSS,GLONASS%20(Russia)
+https://en.wikipedia.org/wiki/Static_random-access_memory
+https://www.cubesatshop.com/product/triskel/
+https://www.pumpkinspace.com/store/c1/Featured_Products.html
+https://www.endurosat.com/products/onboard-computer-with-gnss/
+https://www.tme.eu/gb/details/df-sen0527/environmental-sensors/dfrobot/sen0527/
+https://www.st.com/en/mems-and-sensors/lsm9ds1.html
+https://www.mouser.bg/new/stmicroelectronics/stm-lsm9ds1-module/?utm_id=222281849&gad_source=1&gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHww3o_wwrQlGbesjozGMYZjfrh4esljbl_gP-xPXKYbbpnPpxHQ7FoaAgqXEALw_wcB
+https://learn.adafruit.com/adafruit-lsm9ds1-accelerometer-plus-gyro-plus-magnetometer-9-dof-breakout/overview
+https://bg.led-diode.com/development-board/sot23-ina219-bi-directional-dc-current-power.html
+https://www.mantech.co.za/datasheets/products/GY-NEO6MV2.pdf?srsltid=AfmBOooj7DRZ4dEo_irR7Cp5YCYB9J8EKHOrv3i0-WCCoTwIWDYmVMH-
+https://www.addicore.com/products/neo-6m-gps-module-with-eeprom?srsltid=AfmBOorpCNFqT5XrL0u7zrAdxkbOjCSUv-NDcGbcQ-KQ9gaeAG__dP
+https://www.waveshare.com/solar-power-manager.htm
