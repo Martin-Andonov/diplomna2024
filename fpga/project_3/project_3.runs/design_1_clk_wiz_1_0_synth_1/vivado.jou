@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Jan 25 21:30:59 2025
+# Process ID: 18144
+# Current directory: C:/Users/PC1/Desktop/diplomna 2024/diplomna2024/fpga/project_3/project_3.runs/design_1_clk_wiz_1_0_synth_1
+# Command line: vivado.exe -log design_1_clk_wiz_1_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_clk_wiz_1_0.tcl
+# Log file: C:/Users/PC1/Desktop/diplomna 2024/diplomna2024/fpga/project_3/project_3.runs/design_1_clk_wiz_1_0_synth_1/design_1_clk_wiz_1_0.vds
+# Journal file: C:/Users/PC1/Desktop/diplomna 2024/diplomna2024/fpga/project_3/project_3.runs/design_1_clk_wiz_1_0_synth_1\vivado.jou
+# Running On: DESKTOP-Q0HBRD5, OS: Windows, CPU Frequency: 2904 MHz, CPU Physical cores: 6, Host memory: 17058 MB
+#-----------------------------------------------------------
+source design_1_clk_wiz_1_0.tcl -notrace
