@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rp1")(type "KiCad")(uri "C:/Users/martin/Desktop/diplomna/diplomna2024/pcb/raspberry pi4")(options "")(descr ""))
+)
