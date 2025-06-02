@@ -1,0 +1,316 @@
+00:19:45 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+00:19:48 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+00:19:48 INFO  : Registering command handlers for Vitis TCF services
+00:19:49 INFO  : Platform repository initialization has completed.
+00:19:50 INFO  : XSCT server has started successfully.
+00:19:50 INFO  : Successfully done setting XSCT server connection channel  
+00:19:50 INFO  : plnx-install-location is set to ''
+00:19:50 INFO  : Successfully done query RDI_DATADIR 
+00:19:50 INFO  : Successfully done setting workspace for the tool. 
+00:20:26 INFO  : Result from executing command 'getProjects': design_1_wrapper
+00:20:26 INFO  : Result from executing command 'getPlatforms': xilinx_vck190_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm;xilinx_vck190_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_dfx_202320_1/xilinx_vck190_base_dfx_202320_1.xpfm;xilinx_vek280_es1_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vek280_es1_base_202320_1/xilinx_vek280_es1_base_202320_1.xpfm;xilinx_vmk180_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vmk180_base_202320_1/xilinx_vmk180_base_202320_1.xpfm;xilinx_zcu102_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_202320_1/xilinx_zcu102_base_202320_1.xpfm;xilinx_zcu102_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_dfx_202320_1/xilinx_zcu102_base_dfx_202320_1.xpfm;xilinx_zcu104_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu104_base_202320_1/xilinx_zcu104_base_202320_1.xpfm
+00:20:27 WARN  : An unexpected exception occurred in the module 'platform project logging'
+00:20:29 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+00:20:32 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+00:20:59 INFO  : Result from executing command 'getProjects': design_1_wrapper
+00:20:59 INFO  : Result from executing command 'getPlatforms': design_1_wrapper|C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm;xilinx_vck190_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm;xilinx_vck190_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_dfx_202320_1/xilinx_vck190_base_dfx_202320_1.xpfm;xilinx_vek280_es1_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vek280_es1_base_202320_1/xilinx_vek280_es1_base_202320_1.xpfm;xilinx_vmk180_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vmk180_base_202320_1/xilinx_vmk180_base_202320_1.xpfm;xilinx_zcu102_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_202320_1/xilinx_zcu102_base_202320_1.xpfm;xilinx_zcu102_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_dfx_202320_1/xilinx_zcu102_base_dfx_202320_1.xpfm;xilinx_zcu104_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu104_base_202320_1/xilinx_zcu104_base_202320_1.xpfm
+00:21:00 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+22:03:14 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+22:03:17 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+22:03:22 INFO  : Registering command handlers for Vitis TCF services
+22:03:25 INFO  : XSCT server has started successfully.
+22:03:25 INFO  : plnx-install-location is set to ''
+22:03:25 INFO  : Successfully done setting XSCT server connection channel  
+22:03:25 INFO  : Platform repository initialization has completed.
+22:03:30 INFO  : Successfully done setting workspace for the tool. 
+22:03:30 INFO  : Successfully done query RDI_DATADIR 
+01:40:07 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+01:40:08 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+01:40:15 INFO  : XSCT server has started successfully.
+01:40:15 INFO  : Successfully done setting XSCT server connection channel  
+01:40:15 INFO  : plnx-install-location is set to ''
+01:40:15 INFO  : Successfully done setting workspace for the tool. 
+01:40:16 INFO  : Platform repository initialization has completed.
+01:43:46 INFO  : Registering command handlers for Vitis TCF services
+01:43:49 INFO  : Successfully done query RDI_DATADIR 
+16:38:40 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+16:38:42 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+16:38:49 INFO  : Platform repository initialization has completed.
+16:38:49 INFO  : XSCT server has started successfully.
+16:38:49 INFO  : plnx-install-location is set to ''
+16:38:49 INFO  : Successfully done setting XSCT server connection channel  
+16:38:49 INFO  : Successfully done setting workspace for the tool. 
+18:50:52 INFO  : Registering command handlers for Vitis TCF services
+18:50:55 INFO  : Successfully done query RDI_DATADIR 
+00:11:23 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+00:11:24 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+00:11:28 INFO  : Registering command handlers for Vitis TCF services
+00:11:29 INFO  : Platform repository initialization has completed.
+00:11:30 INFO  : XSCT server has started successfully.
+00:11:30 INFO  : Successfully done setting XSCT server connection channel  
+00:11:30 INFO  : plnx-install-location is set to ''
+00:11:32 INFO  : Successfully done setting workspace for the tool. 
+00:11:32 INFO  : Successfully done query RDI_DATADIR 
+02:14:14 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+02:14:15 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+02:14:20 INFO  : XSCT server has started successfully.
+02:14:20 INFO  : Successfully done setting XSCT server connection channel  
+02:14:20 INFO  : plnx-install-location is set to ''
+02:14:20 INFO  : Successfully done setting workspace for the tool. 
+02:14:23 INFO  : Platform repository initialization has completed.
+02:14:28 INFO  : Registering command handlers for Vitis TCF services
+02:14:32 INFO  : Successfully done query RDI_DATADIR 
+02:44:53 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+02:44:54 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+02:44:57 INFO  : XSCT server has started successfully.
+02:44:57 INFO  : plnx-install-location is set to ''
+02:44:57 INFO  : Successfully done setting XSCT server connection channel  
+02:44:57 INFO  : Successfully done setting workspace for the tool. 
+02:44:58 INFO  : Platform repository initialization has completed.
+02:44:59 INFO  : Registering command handlers for Vitis TCF services
+02:44:59 INFO  : Successfully done query RDI_DATADIR 
+20:46:34 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+20:46:35 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+20:46:41 INFO  : Platform repository initialization has completed.
+20:46:41 INFO  : XSCT server has started successfully.
+20:46:41 INFO  : Successfully done setting XSCT server connection channel  
+20:46:41 INFO  : plnx-install-location is set to ''
+20:46:41 INFO  : Successfully done setting workspace for the tool. 
+20:46:42 INFO  : Registering command handlers for Vitis TCF services
+20:46:45 INFO  : Successfully done query RDI_DATADIR 
+20:53:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:53:55 INFO  : Jtag cable 'Digilent Cmod A7 - 35T 210328BCE68AA' is selected.
+20:53:55 INFO  : 'jtag frequency' command is executed.
+20:53:55 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}' command is executed.
+20:53:56 INFO  : Device configured successfully with "C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit"
+20:53:57 INFO  : Context for processor 'microblaze_0' is selected.
+20:53:57 INFO  : Hardware design and registers information is loaded from 'C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+20:53:57 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+20:53:57 INFO  : Context for processor 'microblaze_0' is selected.
+20:53:57 INFO  : System reset is completed.
+20:54:00 INFO  : 'after 3000' command is executed.
+20:54:00 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}
+fpga -file C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+----------------End of Script----------------
+
+20:54:00 INFO  : Launch script is exported to file 'C:\Users\PC1\Desktop\workspace2\test_system\_ide\scripts\systemdebugger_test_system_standalone.tcl'
+20:56:58 INFO  : Result from executing command 'getProjects': design_1_wrapper
+20:56:58 INFO  : Result from executing command 'getPlatforms': design_1_wrapper|C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm;xilinx_vck190_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm;xilinx_vck190_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_dfx_202320_1/xilinx_vck190_base_dfx_202320_1.xpfm;xilinx_vek280_es1_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vek280_es1_base_202320_1/xilinx_vek280_es1_base_202320_1.xpfm;xilinx_vmk180_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vmk180_base_202320_1/xilinx_vmk180_base_202320_1.xpfm;xilinx_zcu102_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_202320_1/xilinx_zcu102_base_202320_1.xpfm;xilinx_zcu102_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_dfx_202320_1/xilinx_zcu102_base_dfx_202320_1.xpfm;xilinx_zcu104_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu104_base_202320_1/xilinx_zcu104_base_202320_1.xpfm
+20:56:59 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+20:57:19 INFO  : Disconnected from the channel tcfchan#1.
+21:03:10 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+21:03:11 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+21:03:13 INFO  : XSCT server has started successfully.
+21:03:13 INFO  : plnx-install-location is set to ''
+21:03:13 INFO  : Successfully done setting XSCT server connection channel  
+21:03:13 INFO  : Successfully done setting workspace for the tool. 
+21:03:16 INFO  : Registering command handlers for Vitis TCF services
+21:03:16 INFO  : Successfully done query RDI_DATADIR 
+21:03:17 INFO  : Platform repository initialization has completed.
+21:05:02 DEBUG : Logs will be stored at 'C:/Users/PC1/Desktop/workspace2/IDE.log'.
+21:05:02 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\PC1\Desktop\workspace2\temp_xsdb_launch_script.tcl
+21:05:04 INFO  : XSCT server has started successfully.
+21:05:04 INFO  : plnx-install-location is set to ''
+21:05:04 INFO  : Successfully done setting XSCT server connection channel  
+21:05:04 INFO  : Successfully done setting workspace for the tool. 
+21:05:06 INFO  : Platform repository initialization has completed.
+21:05:07 INFO  : Registering command handlers for Vitis TCF services
+21:05:07 INFO  : Successfully done query RDI_DATADIR 
+21:05:21 INFO  : Result from executing command 'getProjects': design_1_wrapper
+21:05:21 INFO  : Result from executing command 'getPlatforms': design_1_wrapper|C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm;xilinx_vck190_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_202320_1/xilinx_vck190_base_202320_1.xpfm;xilinx_vck190_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vck190_base_dfx_202320_1/xilinx_vck190_base_dfx_202320_1.xpfm;xilinx_vek280_es1_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vek280_es1_base_202320_1/xilinx_vek280_es1_base_202320_1.xpfm;xilinx_vmk180_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_vmk180_base_202320_1/xilinx_vmk180_base_202320_1.xpfm;xilinx_zcu102_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_202320_1/xilinx_zcu102_base_202320_1.xpfm;xilinx_zcu102_base_dfx_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu102_base_dfx_202320_1/xilinx_zcu102_base_dfx_202320_1.xpfm;xilinx_zcu104_base_202320_1|D:/Xlinx/Vitis_HLS/Vitis/2023.2/base_platforms/xilinx_zcu104_base_202320_1/xilinx_zcu104_base_202320_1.xpfm
+21:05:22 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:06:51 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:08:59 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:09:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:09:44 INFO  : Jtag cable 'Digilent Cmod A7 - 35T 210328BCE68AA' is selected.
+21:09:44 INFO  : 'jtag frequency' command is executed.
+21:09:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}' command is executed.
+21:09:45 INFO  : Device configured successfully with "C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit"
+21:09:45 INFO  : Context for processor 'microblaze_0' is selected.
+21:09:45 INFO  : Hardware design and registers information is loaded from 'C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+21:09:45 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+21:09:45 INFO  : Context for processor 'microblaze_0' is selected.
+21:09:45 INFO  : System reset is completed.
+21:09:48 INFO  : 'after 3000' command is executed.
+21:09:48 INFO  : Context for processor 'microblaze_0' is selected.
+21:09:48 INFO  : The application 'C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf' is downloaded to processor 'microblaze_0'.
+21:09:48 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}
+fpga -file C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf
+----------------End of Script----------------
+
+21:09:49 INFO  : Context for processor 'microblaze_0' is selected.
+21:09:49 INFO  : 'con' command is executed.
+21:09:49 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+21:09:49 INFO  : Launch script is exported to file 'C:\Users\PC1\Desktop\workspace2\test_system\_ide\scripts\systemdebugger_test_system_standalone.tcl'
+21:10:22 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:10:27 INFO  : Disconnected from the channel tcfchan#2.
+21:10:27 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:10:28 INFO  : Jtag cable 'Digilent Cmod A7 - 35T 210328BCE68AA' is selected.
+21:10:28 INFO  : 'jtag frequency' command is executed.
+21:10:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}' command is executed.
+21:10:29 INFO  : Device configured successfully with "C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit"
+21:10:29 INFO  : Context for processor 'microblaze_0' is selected.
+21:10:29 INFO  : Hardware design and registers information is loaded from 'C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+21:10:29 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+21:10:29 INFO  : Context for processor 'microblaze_0' is selected.
+21:10:29 INFO  : System reset is completed.
+21:10:32 INFO  : 'after 3000' command is executed.
+21:10:32 INFO  : Context for processor 'microblaze_0' is selected.
+21:10:32 INFO  : The application 'C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf' is downloaded to processor 'microblaze_0'.
+21:10:32 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}
+fpga -file C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf
+----------------End of Script----------------
+
+21:10:32 INFO  : Context for processor 'microblaze_0' is selected.
+21:10:32 INFO  : 'con' command is executed.
+21:10:32 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+21:10:32 INFO  : Launch script is exported to file 'C:\Users\PC1\Desktop\workspace2\test_system\_ide\scripts\systemdebugger_test_system_standalone.tcl'
+21:12:58 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:15:04 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:15:10 INFO  : Disconnected from the channel tcfchan#3.
+21:15:10 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:15:10 INFO  : Jtag cable 'Digilent Cmod A7 - 35T 210328BCE68AA' is selected.
+21:15:10 INFO  : 'jtag frequency' command is executed.
+21:15:10 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}' command is executed.
+21:15:11 INFO  : Device configured successfully with "C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit"
+21:15:11 INFO  : Context for processor 'microblaze_0' is selected.
+21:15:11 INFO  : Hardware design and registers information is loaded from 'C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+21:15:11 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+21:15:11 INFO  : Context for processor 'microblaze_0' is selected.
+21:15:11 INFO  : System reset is completed.
+21:15:14 INFO  : 'after 3000' command is executed.
+21:15:14 INFO  : Context for processor 'microblaze_0' is selected.
+21:15:14 INFO  : The application 'C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf' is downloaded to processor 'microblaze_0'.
+21:15:14 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}
+fpga -file C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf
+----------------End of Script----------------
+
+21:15:14 INFO  : Context for processor 'microblaze_0' is selected.
+21:15:14 INFO  : 'con' command is executed.
+21:15:14 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+21:15:14 INFO  : Launch script is exported to file 'C:\Users\PC1\Desktop\workspace2\test_system\_ide\scripts\systemdebugger_test_system_standalone.tcl'
+21:21:10 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:21:15 INFO  : Disconnected from the channel tcfchan#4.
+21:21:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:21:15 INFO  : Jtag cable 'Digilent Cmod A7 - 35T 210328BCE68AA' is selected.
+21:21:15 INFO  : 'jtag frequency' command is executed.
+21:21:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}' command is executed.
+21:21:16 INFO  : Device configured successfully with "C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit"
+21:21:16 INFO  : Context for processor 'microblaze_0' is selected.
+21:21:16 INFO  : Hardware design and registers information is loaded from 'C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+21:21:16 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+21:21:16 INFO  : Context for processor 'microblaze_0' is selected.
+21:21:16 INFO  : System reset is completed.
+21:21:19 INFO  : 'after 3000' command is executed.
+21:21:19 INFO  : Context for processor 'microblaze_0' is selected.
+21:21:20 INFO  : The application 'C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf' is downloaded to processor 'microblaze_0'.
+21:21:20 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}
+fpga -file C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf
+----------------End of Script----------------
+
+21:21:20 INFO  : Context for processor 'microblaze_0' is selected.
+21:21:20 INFO  : 'con' command is executed.
+21:21:20 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+21:21:20 INFO  : Launch script is exported to file 'C:\Users\PC1\Desktop\workspace2\test_system\_ide\scripts\systemdebugger_test_system_standalone.tcl'
+21:24:46 INFO  : Checking for BSP changes to sync application flags for project 'test'...
+21:24:49 INFO  : Disconnected from the channel tcfchan#5.
+21:24:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:24:49 INFO  : Jtag cable 'Digilent Cmod A7 - 35T 210328BCE68AA' is selected.
+21:24:49 INFO  : 'jtag frequency' command is executed.
+21:24:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}' command is executed.
+21:24:50 INFO  : Device configured successfully with "C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit"
+21:24:50 INFO  : Context for processor 'microblaze_0' is selected.
+21:24:50 INFO  : Hardware design and registers information is loaded from 'C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+21:24:50 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+21:24:50 INFO  : Context for processor 'microblaze_0' is selected.
+21:24:50 INFO  : System reset is completed.
+21:24:53 INFO  : 'after 3000' command is executed.
+21:24:53 INFO  : Context for processor 'microblaze_0' is selected.
+21:24:53 INFO  : The application 'C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf' is downloaded to processor 'microblaze_0'.
+21:24:53 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Cmod A7 - 35T 210328BCE68AA" && level==0 && jtag_device_ctx=="jsn-Cmod A7 - 35T-210328BCE68AA-0362d093-0"}
+fpga -file C:/Users/PC1/Desktop/workspace2/test/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/PC1/Desktop/workspace2/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/PC1/Desktop/workspace2/test/Debug/test.elf
+----------------End of Script----------------
+
+21:24:54 INFO  : Context for processor 'microblaze_0' is selected.
+21:24:54 INFO  : 'con' command is executed.
+21:24:54 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+21:24:54 INFO  : Launch script is exported to file 'C:\Users\PC1\Desktop\workspace2\test_system\_ide\scripts\systemdebugger_test_system_standalone.tcl'
+21:33:54 INFO  : Disconnected from the channel tcfchan#6.
